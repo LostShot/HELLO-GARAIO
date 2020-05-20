@@ -1,2 +1,0 @@
-# HELLO-GARAIO
-test repository
